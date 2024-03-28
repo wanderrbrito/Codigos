@@ -1,5 +1,0 @@
-print('Exercicio Modulo 17')
-print('Versao 1')
-print('Versao 2')
-print('Ajustando....')
-print('Ultima alteracao 24/03/2024 - 19:15')
