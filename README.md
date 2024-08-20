@@ -5,4 +5,8 @@ Com arquivos em Python usando:
 *  Pandas
 *  Matplotlib
 *  Seaborn
+*  Scikit-learn
+*  Plotly
+*  Pyautogui
+*  Flask
 *  Google Locker Studio
